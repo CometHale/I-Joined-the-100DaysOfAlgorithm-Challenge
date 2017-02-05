@@ -36,7 +36,7 @@ This is the list of people who are taking the challenge with link to their main 
 [Henry Tran](https://github.com/hnrytrn/100-days-of-algorithms-challenge)  
 [Mudit Varma](https://github.com/tobeey/-100DaysOfAlgorithm)  
 [Darpan Shah](https://github.com/dshah22/100-days-of-Algorithm)  
-[Haley Sanders](https://github.com/HFSanders/100-Days-of-Algorithm-Challenge)  
+[Haley Sanders](https://github.com/CometHale/100-Days-of-Algorithm-Challenge)  
 [Ameem Shaik](https://github.com/ameem91/100-Days-of-Algorithm-Challenge)  
 [Balaji](https://github.com/Balaji2198/100-days-of-Algorithm-Challenge)  
 [Luke Skinner](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge)  
